@@ -2,6 +2,11 @@
 
 
 Welcome to the AI Agents Projects repository—a collection of diverse and innovative AI agent implementations designed to solve real-world challenges and explore cutting-edge technologies in artificial intelligence!
+
+![MAGENT](https://cdn.prod.website-files.com/6583e2b6af21ee3aa85c3013/6627aef6e6037b64796345f8_Type%20of%20Ai%20Agent%20-%20Ampcome.png)
+
+
+
 Project Highlights:
 
     Personal Assistant Bot: A conversational AI that schedules tasks, answers questions and provides reminders.
