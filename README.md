@@ -43,6 +43,6 @@ Getting Started:
 
 Contribute 🚀
 
-Have an AI agent idea? Fork the repository and submit your pull request!
+Do you have an AI agent idea? Fork the repository and submit your pull request!
 
 Join us in pushing the boundaries of what AI agents can achieve.
