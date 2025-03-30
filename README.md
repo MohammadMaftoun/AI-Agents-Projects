@@ -2,6 +2,7 @@
 
 
 Welcome to the AI Agents Projects repository—a collection of diverse and innovative AI agent implementations designed to solve real-world challenges and explore cutting-edge technologies in artificial intelligence!
+Agentic AI, an emerging paradigm in artificial intelligence, refers to autonomous systems designed to pursue complex goals with minimal human intervention. Unlike traditional AI, which depends on structured instructions and close oversight, Agentic AI demonstrates adaptability, advanced decision-making capabilities, and self-sufficiency, enabling it to operate dynamically in evolving environments.
 
 ![MAGENT](https://cdn.prod.website-files.com/6583e2b6af21ee3aa85c3013/6627aef6e6037b64796345f8_Type%20of%20Ai%20Agent%20-%20Ampcome.png)
 
