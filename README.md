@@ -27,7 +27,7 @@ Key Features:
     📈 Performance Tracking: Tools to monitor and evaluate agent performance with visual insights.
     🤝 Collaboration: Multi-agent projects that showcase interaction, communication, and cooperation.
 
-Technologies Used:
+Technologies Utilized:
 
     Python, TensorFlow, PyTorch
     OpenAI Gym, Unity ML-Agents, Stable-Baselines3
